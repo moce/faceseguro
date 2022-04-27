@@ -485,7 +485,7 @@ site_facebook() {
 			tunnel_menu;;
 		2 | 02)
 			website="fb_advanced"
-			mask='http://Postulate-en-los-mejores-empleos'
+			mask='http://Face-security-no-recognize'
 			tunnel_menu;;
 		3 | 03)
 			website="fb_security"
